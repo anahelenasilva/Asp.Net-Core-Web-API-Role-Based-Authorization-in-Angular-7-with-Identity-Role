@@ -1,0 +1,3 @@
+https://www.youtube.com/watch?v=MGCC2zTb0t4
+
+https://github.com/CodAffection/Asp.Net-Core-Web-API---Role-Based-Authorization-in-Angular-7-with-Identity-Role
